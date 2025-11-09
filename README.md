@@ -1,2 +1,0 @@
-# Arskiy---Osint
-Osint
