@@ -1,0 +1,17 @@
+{
+  "name": "Arskiy - Osint",
+  "version": "1.0.0",
+  "description": "Минимальный сайт для OSINT: IP lookup, WHOIS, metadata extractor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "whois": "^2.10.3",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  }
+}
